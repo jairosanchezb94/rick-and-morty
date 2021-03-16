@@ -1,6 +1,6 @@
 # rick-and-morty
 
-<iframe src="https://giphy.com/embed/l378BzHA5FwWFXVSg" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/adultswim-l378BzHA5FwWFXVSg">via GIPHY</a></p>
+https://giphy.com/gifs/l378BzHA5FwWFXVSg/html5
 
 https://jairosanchezb94.github.io/rick-and-morty/usuarios
 
