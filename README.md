@@ -2,7 +2,7 @@
 
 https://jairosanchezb94.github.io/rick-and-morty/usuarios
 
-Es una web que he realizado con Angular en la cual podemos encotrar los personajes de Rick an Morty: 
+Es una web que he realizado con Angular y Ionic en la cual podemos encotrar los personajes de Rick an Morty: 
 
 Capturas de Fotos: 
 
