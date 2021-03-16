@@ -1,6 +1,6 @@
 # rick-and-morty
 
-<img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="100px">
+<img src="https://media.giphy.com/media/l378BzHA5FwWFXVSg/giphy.gif" width="500px">
 
 https://jairosanchezb94.github.io/rick-and-morty/usuarios
 
